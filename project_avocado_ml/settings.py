@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-kic=c=k=oq7@n*#cgdv_()8q=3@#w-(&f#+&_dia(9d&*%9)6v
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['avocadoprediction.onrender.com']
 
 
 # Application definition
